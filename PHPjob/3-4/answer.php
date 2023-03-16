@@ -19,8 +19,6 @@
 	$correctAns1 = $_POST['correctAns1'];
 	$correctAns2 = $_POST['correctAns2'];
 	$correctAns3 = $_POST['correctAns3'];
-    // echo $correctAns1.$correctAns2.$correctAns3.'<br>';
-    // echo $Ans1.$Ans2.$Ans3.'<br>';
 	?>
 
 	<p><!--POST通信で送られてきた名前を表示--><?php echo $name; ?>さんの結果は・・・？</p>
